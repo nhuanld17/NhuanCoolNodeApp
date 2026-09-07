@@ -1,0 +1,16 @@
+{
+  "name": "lab_03",
+  "version": "1.0.0",
+  "description": "node app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "LE DINH NHUAN 23IT200",
+  "license": "ISC",
+  "homepage": ""
+}
